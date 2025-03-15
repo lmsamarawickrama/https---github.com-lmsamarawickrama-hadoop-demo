@@ -1,0 +1,101 @@
+bookingId,vehicleType,distance,pickupLocation,dropoffLocation,amount,userId
+B001,budget,8.58,Woodlands,Orchard Road,13.87,tracy14@yahoo.com
+B002,budget,14.6,Pasir Ris,Novena,36.38,gabbott@hotmail.com
+B003,budget,24.2,Holland Village,Punggol,37.77,jennifermartin@yahoo.com
+B004,budget,12.29,Ang Mo Kio,Toa Payoh,25.37,joshua40@walker-webb.com
+B005,premium,29.94,Punggol,Ang Mo Kio,15.02,sburns@yahoo.com
+B006,standard,28.55,Gardens by the Bay,Jurong East,31.15,daniel36@yahoo.com
+B007,premium,22.14,Sentosa,Clarke Quay,12.54,phillipsdaniel@gmail.com
+B008,premium,15.57,Sentosa,Little India,49.64,coffeydouglas@yahoo.com
+B009,budget,9.71,Sentosa,Orchard Road,12.57,zreynolds@snyder-combs.com
+B010,budget,13.56,Marina Bay,Clarke Quay,20.79,millerjoseph@irwin.info
+B011,budget,15.2,Orchard Road,Pasir Ris,48.77,aliciareeves@mason.net
+B012,budget,14.57,Punggol,Marina Bay,7.21,mullenandrew@gmail.com
+B013,standard,16.93,Little India,Holland Village,38.5,john34@yahoo.com
+B014,premium,14.54,Toa Payoh,Chinatown,6.64,brandon93@yahoo.com
+B015,standard,18.85,Marina Bay,Bugis,8.41,jennifer67@gmail.com
+B016,standard,18.99,Jurong East,Woodlands,31.07,charles34@hotmail.com
+B017,budget,2.42,Chinatown,Bugis,37.34,brian66@gmail.com
+B018,budget,5.0,Toa Payoh,Changi Airport,46.86,rroberts@butler.com
+B019,budget,3.42,Toa Payoh,Chinatown,6.25,bensonemily@beck.com
+B020,premium,9.68,Holland Village,Bugis,14.92,courtneymcneil@hotmail.com
+B021,premium,7.37,Bugis,Yishun,10.01,floresdanielle@henry-kline.com
+B022,premium,11.87,Little India,Orchard Road,34.26,michael66@hotmail.com
+B023,budget,13.41,Jurong East,Punggol,20.59,jessicajones@hotmail.com
+B024,budget,21.03,Kallang,Holland Village,11.53,cabreradanielle@frank.com
+B025,budget,28.91,Yishun,Holland Village,23.7,robertsonanna@rogers.com
+B026,standard,28.97,Yishun,Woodlands,14.41,rodriguezmadison@smith.biz
+B027,premium,3.95,Clarke Quay,Toa Payoh,38.66,theresataylor@yahoo.com
+B028,standard,24.02,Holland Village,Punggol,30.11,robertdavis@brown-douglas.com
+B029,budget,29.5,Holland Village,Clarke Quay,48.25,jeremiahbarber@gmail.com
+B030,standard,20.44,Yishun,Bukit Timah,14.41,johnstonjames@hotmail.com
+B031,premium,17.54,Little India,Novena,12.38,donnadavid@yahoo.com
+B032,premium,13.26,Orchard Road,Sentosa,42.13,kroberson@yahoo.com
+B033,standard,17.99,Marina Bay,Kallang,9.04,kayla65@yahoo.com
+B034,premium,5.59,Marina Bay,Toa Payoh,18.05,agoodman@hotmail.com
+B035,standard,9.67,Sentosa,Sentosa,43.11,thomas18@hotmail.com
+B036,budget,20.69,Changi Airport,Yishun,12.44,villanuevajessica@hotmail.com
+B037,premium,22.12,Bugis,Bukit Timah,5.57,nelsonsally@gmail.com
+B038,budget,18.01,Orchard Road,Woodlands,21.84,rachelthompson@yahoo.com
+B039,standard,21.67,Sentosa,Pasir Ris,18.24,tandrade@osborne.com
+B040,standard,13.03,Woodlands,Bugis,34.89,bradley86@yahoo.com
+B041,standard,21.94,Chinatown,Novena,10.75,barbarariley@banks.com
+B042,standard,22.16,Novena,Novena,41.04,fjackson@smith-morales.com
+B043,premium,26.99,Bukit Timah,Changi Airport,45.97,james96@johnson.com
+B044,standard,9.19,Punggol,Bukit Timah,27.79,gonzalesvalerie@yahoo.com
+B045,budget,2.08,Ang Mo Kio,Yishun,48.22,elliottjonathan@gmail.com
+B046,standard,27.06,Little India,Pasir Ris,36.08,jill31@wright.biz
+B047,premium,8.35,Toa Payoh,Novena,13.2,ugraves@yahoo.com
+B048,budget,2.67,Sentosa,Novena,9.23,susanwalsh@hotmail.com
+B049,standard,28.14,Sentosa,Jurong East,26.9,wrightdylan@grant.com
+B050,standard,7.11,Sentosa,Toa Payoh,29.18,vkelly@gmail.com
+B051,premium,17.01,Bukit Timah,Toa Payoh,37.36,rodneybaker@gmail.com
+B052,premium,18.11,Jurong East,Marina Bay,9.94,dawn39@hotmail.com
+B053,budget,8.98,Marina Bay,Little India,49.35,robertwood@brown.com
+B054,standard,18.17,Chinatown,Ang Mo Kio,9.46,paula25@gmail.com
+B055,budget,7.99,Novena,Pasir Ris,38.04,ashley08@hotmail.com
+B056,standard,12.75,Toa Payoh,Punggol,30.0,darrenschneider@ryan.com
+B057,budget,25.48,Clarke Quay,Marina Bay,7.01,tracy33@fisher-parker.com
+B058,premium,9.93,Bukit Timah,Orchard Road,28.88,franciscososa@yahoo.com
+B059,budget,8.43,Bugis,Ang Mo Kio,6.39,cjackson@griffin.org
+B060,budget,10.95,Sentosa,Bukit Timah,6.49,mhughes@gmail.com
+B061,budget,19.28,Bukit Timah,Chinatown,10.55,dmiller@johnson.biz
+B062,budget,17.03,Yishun,Chinatown,17.09,dillontamara@garcia.org
+B063,budget,23.94,Marina Bay,Bugis,46.87,rnelson@cooke-stevenson.com
+B064,premium,7.79,Changi Airport,Pasir Ris,29.86,erodriguez@hotmail.com
+B065,premium,12.65,Punggol,Sentosa,5.43,tanya88@gmail.com
+B066,standard,16.73,Gardens by the Bay,Bugis,12.13,nancyharris@blair-taylor.com
+B067,budget,6.9,Bukit Timah,Holland Village,49.15,cunninghamchristina@gmail.com
+B068,standard,22.8,Holland Village,Sentosa,38.89,jesus77@miller.com
+B069,standard,17.67,Gardens by the Bay,Novena,41.03,hernandezian@ward.com
+B070,premium,2.08,Holland Village,Holland Village,14.66,davidmiller@yahoo.com
+B071,standard,28.13,Toa Payoh,Toa Payoh,26.74,ghooper@hotmail.com
+B072,standard,7.8,Punggol,Little India,41.98,mpayne@kennedy.com
+B073,standard,2.44,Bugis,Clarke Quay,48.88,kellyjames@gmail.com
+B074,premium,21.24,Bukit Timah,Holland Village,46.6,makaylacabrera@gmail.com
+B075,premium,28.01,Bugis,Changi Airport,49.01,tony29@fisher.info
+B076,standard,24.97,Clarke Quay,Sentosa,22.05,clang@hotmail.com
+B077,standard,1.08,Little India,Orchard Road,22.9,williamschristopher@gmail.com
+B078,premium,9.09,Sentosa,Holland Village,23.26,molly65@yahoo.com
+B079,premium,3.19,Pasir Ris,Kallang,6.31,cruzdarlene@gmail.com
+B080,budget,14.02,Jurong East,Orchard Road,36.47,ywhitehead@hotmail.com
+B081,standard,23.73,Gardens by the Bay,Gardens by the Bay,30.0,scottthompson@hill.org
+B082,premium,6.98,Holland Village,Sentosa,30.55,pamela14@bailey-olson.com
+B083,budget,25.36,Holland Village,Bugis,6.47,markgamble@taylor-cox.com
+B084,premium,26.21,Clarke Quay,Pasir Ris,24.66,adam75@page-galloway.info
+B085,premium,17.65,Woodlands,Changi Airport,20.51,richard78@davis.com
+B086,premium,10.6,Kallang,Bukit Timah,41.63,astout@gmail.com
+B087,budget,21.26,Woodlands,Bukit Timah,28.27,marypeterson@gmail.com
+B088,budget,1.16,Pasir Ris,Sentosa,46.85,richardanderson@yahoo.com
+B089,budget,11.54,Bukit Timah,Chinatown,46.95,gmcpherson@hotmail.com
+B090,budget,2.65,Clarke Quay,Woodlands,10.73,kingkelly@yahoo.com
+B091,budget,6.09,Orchard Road,Punggol,34.18,stephen72@smith.org
+B092,standard,4.85,Clarke Quay,Chinatown,10.98,andrewstoni@smith.com
+B093,budget,4.01,Clarke Quay,Ang Mo Kio,33.96,deborah27@thomas.com
+B094,standard,28.08,Punggol,Sentosa,14.88,trujillodebra@yahoo.com
+B095,standard,26.72,Clarke Quay,Ang Mo Kio,40.63,wholden@hotmail.com
+B096,premium,21.65,Changi Airport,Punggol,38.94,underwoodcarolyn@gibson.info
+B097,premium,1.4,Punggol,Toa Payoh,25.87,alyssawilliams@estrada.com
+B098,premium,6.15,Novena,Sentosa,46.47,murraymaria@yahoo.com
+B099,budget,17.04,Punggol,Clarke Quay,39.77,robert65@johnson.net
+B100,budget,21.56,Marina Bay,Bukit Timah,41.4,emoreno@deleon.com
